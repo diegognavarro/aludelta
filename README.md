@@ -1,5 +1,7 @@
 # aludelta
-Impresora 3d realizada con perfiles cuadrados de 25,4x25,4 (1 pulgada)
+Impresora 3d realizada con perfiles cuadrados de 25,4 (1 pulgada)
+Area de impresion de 250mm de diámetro y altura desde 290mm a 550mm (dependiendo de varillas lisas y cortes aluminio)
+La impresora es facilmente escalable.
 
 Licencia GPL/GNU 
 
